@@ -38,4 +38,5 @@ int main()
     printf("%d\n",c);
     printf("%d",d);
     return 0;
-}.
+}
+
